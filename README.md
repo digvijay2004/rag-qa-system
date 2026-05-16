@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/Digvijay8809/rag-qa-system)
+
+Try it live: https://huggingface.co/spaces/Digvijay8809/rag-qa-system
 # RAG Q&A System
 
 A production-ready Retrieval-Augmented Generation (RAG) pipeline 
