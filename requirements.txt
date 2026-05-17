@@ -10,3 +10,4 @@ groq
 python-dotenv
 pydantic
 python-multipart
+gradio

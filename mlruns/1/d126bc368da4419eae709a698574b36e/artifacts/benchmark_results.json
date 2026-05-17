@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What is the candidate's highest level of education?",
+    "expected": "Master's degree in Computer Science from Western Michigan University",
+    "predicted": "The candidate's highest level of education is a Master of Science (M.S.) in Computer Science from Western Michigan University, USA.",
+    "rouge_score": 0.4444,
+    "latency_seconds": 2.85
+  },
+  {
+    "question": "What programming languages does the candidate know?",
+    "expected": "Python, SQL, JavaScript, R, C#",
+    "predicted": "The candidate knows the following programming languages: Python, SQL, JavaScript, R, C#.",
+    "rouge_score": 0.5,
+    "latency_seconds": 2.45
+  },
+  {
+    "question": "What AI frameworks does the candidate use?",
+    "expected": "LangChain, CrewAI, RAG Pipelines, Hugging Face Transformers",
+    "predicted": "The candidate uses the following AI frameworks: \n\n1. PyTorch\n2. TensorFlow\n3. Hugging Face Transformers\n4. Scikit-learn\n5. LangChain\n6. CrewAI\n7. RAG Pipelines \n\nAdditionally, the candidate has experience with other AI-related technologies such as Fine-tuning (LoRA/PEFT), NLP, Computer Vision, Deep Learning, Reinforcement Learning, Generative AI, and LLMs.",
+    "rouge_score": 0.1569,
+    "latency_seconds": 2.55
+  },
+  {
+    "question": "What is the candidate's most recent work experience?",
+    "expected": "Software Engineer at Bright Mind Enrichment since February 2026",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.45
+  },
+  {
+    "question": "What cloud platforms does the candidate have experience with?",
+    "expected": "AWS, Azure, GCP",
+    "predicted": "The candidate has experience with the following cloud platforms: AWS, Azure, GCP.",
+    "rouge_score": 0.2857,
+    "latency_seconds": 2.38
+  },
+  {
+    "question": "What is the candidate's GPA or graduation year?",
+    "expected": "Graduated December 2025",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.14
+  },
+  {
+    "question": "What databases does the candidate work with?",
+    "expected": "PostgreSQL, MySQL, FAISS",
+    "predicted": "The candidate works with the following databases: PostgreSQL, MySQL, and FAISS.",
+    "rouge_score": 0.3077,
+    "latency_seconds": 2.28
+  },
+  {
+    "question": "What is the candidate's email address?",
+    "expected": "d.bhgat20@gmail.com",
+    "predicted": "The candidate's email address is d.bhgat20@gmail.com.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.57
+  },
+  {
+    "question": "What MLOps tools does the candidate use?",
+    "expected": "MLflow, Weights and Biases, Docker, CI/CD",
+    "predicted": "The candidate uses the following MLOps tools: \n\n1. MLflow\n2. Weights & Biases\n3. Docker\n4. CI/CD\n5. FastAPI Model Serving\n6. REST APIs \n\nAdditionally, the candidate has experience with cloud platforms including AWS, Azure, and GCP.",
+    "rouge_score": 0.15,
+    "latency_seconds": 2.36
+  },
+  {
+    "question": "What certifications does the candidate have?",
+    "expected": "DeepLearning.AI LangChain certification and Microsoft Generative AI certification",
+    "predicted": "The candidate has the following certifications:\n\n1. DeepLearning.AI \u2014 LangChain for LLM Application Development (Coursera, 2025) \u2014 LangChain, RAG, LLM engineering\n2. Develop a Vision-Enabled Generative AI Application (Microsoft, 2026) \u2014 Computer Vision, Image Analysis, Generative AI\n3. Google Foundations: Data, Data Everywhere (Coursera, 2023) \u2014 SQL, data analytics, visualization\n4. Web Development Bootcamp (Udemy, 2022) \u2014 Full-stack, Node.js, MongoDB",
+    "rouge_score": 0.1455,
+    "latency_seconds": 2.84
+  },
+  {
+    "question": "What was the candidate's role at Yash Infotech?",
+    "expected": "Associate Software Engineer in Backend and Data Engineering",
+    "predicted": "The candidate had two roles at Yash Infotech: \n\n1. Associate Software Engineer \u2013 Backend & Data Engineering (May 2021 \u2013 Jun 2023)\n2. Software Engineer Intern (Jan 2021 \u2013 Apr 2021)",
+    "rouge_score": 0.3529,
+    "latency_seconds": 2.39
+  },
+  {
+    "question": "How many years of experience does the candidate have?",
+    "expected": "Over 2 years of professional software engineering experience",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.42
+  },
+  {
+    "question": "What deep learning frameworks does the candidate know?",
+    "expected": "PyTorch and TensorFlow",
+    "predicted": "The candidate knows the following deep learning frameworks: PyTorch, TensorFlow, and Hugging Face Transformers.",
+    "rouge_score": 0.125,
+    "latency_seconds": 2.23
+  },
+  {
+    "question": "What is the candidate's GitHub username?",
+    "expected": "digvijay2004",
+    "predicted": "The candidate's GitHub username is digvijay2004.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.33
+  },
+  {
+    "question": "What was the candidate's internship role?",
+    "expected": "Software Engineer Intern at Yash Infotech",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.28
+  },
+  {
+    "question": "What RAG project did the candidate build?",
+    "expected": "RAG Powered Q&A System using LangChain FAISS Hugging Face and Groq",
+    "predicted": "The candidate built a retrieval-augmented generation (RAG) pipeline using LangChain, FAISS, and Hugging Face Transformers, where they chunked and embedded PDF documents with sentence-transformers, and served answers via a REST API endpoint.",
+    "rouge_score": 0.2,
+    "latency_seconds": 2.3
+  },
+  {
+    "question": "What is the candidate's phone number?",
+    "expected": "+1 269 364 0990",
+    "predicted": "The candidate's phone number is +1(269)364-0990.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.39
+  },
+  {
+    "question": "What university did the candidate complete their bachelor's degree at?",
+    "expected": "Savitribai Phule Pune University in India",
+    "predicted": "The candidate completed their bachelor's degree at Savitribai Phule Pune University, India.",
+    "rouge_score": 0.3333,
+    "latency_seconds": 2.19
+  },
+  {
+    "question": "What machine learning concepts does the candidate know?",
+    "expected": "NLP Computer Vision Deep Learning Reinforcement Learning",
+    "predicted": "The candidate appears to have knowledge of the following machine learning concepts:\n\n1. Deep Learning: The candidate has a certification in \"LangChain for LLM Application Development\" and has experience with LLM engineering.\n2. Computer Vision: The candidate has a certification in \"Develop a Vision-Enabled Generative AI Application\" and has experience with Image Analysis and Generative AI.\n3. Data Analytics and Visualization: The candidate has a certification in \"Google Foundations: Data, Data Everywhere\" and has experience with SQL, data analytics, and visualization.\n4. Model Evaluation: The candidate has experience evaluating multiple models (Random Forest, XGBoost, Logistic Regression) using cross-validation.\n5. Hyperparameter Tuning: The candidate has experience with hyperparameter tuning, achieving 87% accuracy in a classification model.\n6. Feature Selection: The candidate has experience with feature selection.\n7. Full-stack Development: The candidate has a certification in \"Web Development Bootcamp\" and has experience with Node.js and MongoDB.\n8. MLOps: The candidate has experience tracking experiments with MLflow and delivering actionable insights.\n\nNote: The candidate's knowledge is inferred from their certifications, experience, and skills mentioned in the provided documents.",
+    "rouge_score": 0.055,
+    "latency_seconds": 3.02
+  },
+  {
+    "question": "What containerization tools does the candidate use?",
+    "expected": "Docker",
+    "predicted": "The candidate uses Docker as a containerization tool.",
+    "rouge_score": 0.2222,
+    "latency_seconds": 2.28
+  },
+  {
+    "question": "What is the candidate's GAN project about?",
+    "expected": "Car image generation using Generative Adversarial Networks with PyTorch",
+    "predicted": "The candidate's GAN project is about training a GAN model to autonomously generate photorealistic synthetic car images, and they optimized training stability using learning rate scheduling and gradient clipping.",
+    "rouge_score": 0.1143,
+    "latency_seconds": 2.46
+  },
+  {
+    "question": "What accuracy did the candidate achieve in the crash prediction project?",
+    "expected": "87 percent accuracy",
+    "predicted": "The candidate achieved 87% accuracy in the project where they built a classification model. However, it is not explicitly stated that this project is the crash prediction project. The crash prediction project is mentioned in the context, but its accuracy is not provided. Therefore, based on the provided document, I don't know the accuracy achieved in the crash prediction project.",
+    "rouge_score": 0.05,
+    "latency_seconds": 2.97
+  },
+  {
+    "question": "What LLM tool did the candidate use at Bright Mind?",
+    "expected": "LangChain and OpenAI API for report summarization",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.38
+  },
+  {
+    "question": "What is the candidate's LinkedIn profile?",
+    "expected": "linkedin.com/in/digvijay-bhagat",
+    "predicted": "https://www.linkedin.com/in/digvijay-bhagat18715532a",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.51
+  },
+  {
+    "question": "What agile methodology does the candidate follow?",
+    "expected": "Agile Scrum",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.29
+  }
+]

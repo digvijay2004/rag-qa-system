@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What is the candidate's highest level of education?",
+    "expected": "Master's degree in Computer Science from Western Michigan University",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.66
+  },
+  {
+    "question": "What programming languages does the candidate know?",
+    "expected": "Python, SQL, JavaScript, R, C#",
+    "predicted": "The candidate knows the following programming languages: HTML, Java, JavaScript, C++, C, SQL.",
+    "rouge_score": 0.1176,
+    "latency_seconds": 2.43
+  },
+  {
+    "question": "What AI frameworks does the candidate use?",
+    "expected": "LangChain, CrewAI, RAG Pipelines, Hugging Face Transformers",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.28
+  },
+  {
+    "question": "What is the candidate's most recent work experience?",
+    "expected": "Software Engineer at Bright Mind Enrichment since February 2026",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.23
+  },
+  {
+    "question": "What cloud platforms does the candidate have experience with?",
+    "expected": "AWS, Azure, GCP",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.12
+  },
+  {
+    "question": "What is the candidate's GPA or graduation year?",
+    "expected": "Graduated December 2025",
+    "predicted": "The candidate's CGPA is 7.96, and they graduated from June 2019 to April 2022, with a Bachelor of Science in Computer Science from Sinhgad College of Science, Pune.",
+    "rouge_score": 0.0714,
+    "latency_seconds": 2.33
+  },
+  {
+    "question": "What databases does the candidate work with?",
+    "expected": "PostgreSQL, MySQL, FAISS",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.12
+  },
+  {
+    "question": "What is the candidate's email address?",
+    "expected": "d.bhgat20@gmail.com",
+    "predicted": "The candidate's email address is bhagatdigvijay6@gmail.com.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.29
+  },
+  {
+    "question": "What MLOps tools does the candidate use?",
+    "expected": "MLflow, Weights and Biases, Docker, CI/CD",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.15
+  },
+  {
+    "question": "What certifications does the candidate have?",
+    "expected": "DeepLearning.AI LangChain certification and Microsoft Generative AI certification",
+    "predicted": "The candidate has the following certifications:\n\n1. Complete Web Development Bootcamp Course from Udemy Academy (2022)\n2. Google Data Analytics Course from Coursera (2023) - Organized by Google\n3. Google UX Design Professional Course from Coursera (2023) - Organized by Google\n4. Google IT Automation With Python Course from Coursera (2023) - Organized by Google\n\nAdditionally, the candidate has a Certificate of participation in the 200m Sprint at DSK Karandak, Pune, Maharashtra, India.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.54
+  },
+  {
+    "question": "What was the candidate's role at Yash Infotech?",
+    "expected": "Associate Software Engineer in Backend and Data Engineering",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.03
+  },
+  {
+    "question": "How many years of experience does the candidate have?",
+    "expected": "Over 2 years of professional software engineering experience",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.2
+  },
+  {
+    "question": "What deep learning frameworks does the candidate know?",
+    "expected": "PyTorch and TensorFlow",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.15
+  },
+  {
+    "question": "What is the candidate's GitHub username?",
+    "expected": "digvijay2004",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.26
+  },
+  {
+    "question": "What was the candidate's internship role?",
+    "expected": "Software Engineer Intern at Yash Infotech",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.17
+  },
+  {
+    "question": "What RAG project did the candidate build?",
+    "expected": "RAG Powered Q&A System using LangChain FAISS Hugging Face and Groq",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.07
+  },
+  {
+    "question": "What is the candidate's phone number?",
+    "expected": "+1 269 364 0990",
+    "predicted": "The candidate's phone number is +91 9764399329.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.28
+  },
+  {
+    "question": "What university did the candidate complete their bachelor's degree at?",
+    "expected": "Savitribai Phule Pune University in India",
+    "predicted": "The candidate completed their Bachelor of Science in Computer Science degree at Sinhgad College of Science, Pune, which is affiliated to Savitribai Phule Pune University (SPPU).",
+    "rouge_score": 0.3333,
+    "latency_seconds": 2.05
+  },
+  {
+    "question": "What machine learning concepts does the candidate know?",
+    "expected": "NLP Computer Vision Deep Learning Reinforcement Learning",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.26
+  },
+  {
+    "question": "What containerization tools does the candidate use?",
+    "expected": "Docker",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.33
+  },
+  {
+    "question": "What is the candidate's GAN project about?",
+    "expected": "Car image generation using Generative Adversarial Networks with PyTorch",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.24
+  },
+  {
+    "question": "What accuracy did the candidate achieve in the crash prediction project?",
+    "expected": "87 percent accuracy",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.32
+  },
+  {
+    "question": "What LLM tool did the candidate use at Bright Mind?",
+    "expected": "LangChain and OpenAI API for report summarization",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.21
+  },
+  {
+    "question": "What is the candidate's LinkedIn profile?",
+    "expected": "linkedin.com/in/digvijay-bhagat",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.2
+  },
+  {
+    "question": "What agile methodology does the candidate follow?",
+    "expected": "Agile Scrum",
+    "predicted": "I don't know based on the provided document.",
+    "rouge_score": 0.0,
+    "latency_seconds": 2.1
+  }
+]
