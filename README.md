@@ -4,6 +4,22 @@
 Try it live: https://huggingface.co/spaces/Digvijay8809/rag-qa-system
 # RAG Q&A System
 
+```mermaid
+graph TD
+    A[User uploads PDF] --> B[Document Loader]
+    B --> C[Text Chunker]
+    C --> D[Sentence Transformers Embeddings]
+    D --> E[FAISS Vector Store]
+    F[User Question] --> G[Query Embedder]
+    G --> H[Semantic Search]
+    E --> H
+    H --> I[Retrieved Context]
+    I --> J[Groq LLM]
+    F --> J
+    J --> K[Answer]
+    K --> L[Gradio UI]
+```
+
 A production-ready Retrieval-Augmented Generation (RAG) pipeline 
 that lets you upload any PDF and ask questions about it using LLMs.
 
